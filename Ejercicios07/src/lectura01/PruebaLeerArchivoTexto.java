@@ -7,7 +7,8 @@ public class PruebaLeerArchivoTexto {
         // LeerArchivoTexto.leerRegistros01();
         // LeerArchivoTexto.leerRegistros02();
         // LeerArchivoTexto.leerRegistros03();
-        // LeerArchivoTexto.leerRegistros04();
+         LeerArchivoTexto.leerRegistros04();
+        //LeerArchivoTexto.leerRegistros05();
 
     } // fin de main
 } // fin de la clase PruebaLeerArchivoTexto
